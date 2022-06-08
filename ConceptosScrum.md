@@ -1,5 +1,7 @@
 # Roles
 ## Equipo SCRUM
+	
+[![Alt text](https://img.youtube.com/vi/hdkVP_NZUD8/0.jpg)](https://www.youtube.com/watch?v=hdkVP_NZUD8)
 
 *La unidad fundamental de Scrum es un equipo de personas (Scrum Team). Cada equipo consiste en un Scrum Master, un propietario del producto (Product Owner)  y desarrolladores (Developers).*
 
